@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Headphone",
+      "price": 10.99,
+      "imgUrl": "/imgs/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Iphone",
+      "price": 1199,
+      "imgUrl": "/imgs/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wacth",
+      "price": 10.05,
+      "imgUrl": "/imgs/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sunglasses",
+      "price": 140,
+      "imgUrl": "/imgs/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Labtop",
+        "price": 300,
+        "imgUrl": "/imgs/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Bag",
+        "price": 5,
+        "imgUrl": "/imgs/6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Shoes",
+        "price": 23,
+        "imgUrl": "/imgs/7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "T-shirt",
+        "price": 57,
+        "imgUrl": "/imgs/8.jpg"
+      }
+  ]
